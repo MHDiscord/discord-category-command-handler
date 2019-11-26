@@ -1,0 +1,15 @@
+{
+    "name": "mh_command_handler",
+    "version": "1.0.0",
+    "description": "A command handler discord.js, which handles categories.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index"
+    },
+    "keywords": ["discord", "bot", "command_handler", "mhdiscord"],
+    "author": "Jacques",
+    "license": "MIT",
+    "dependencies": {
+        "discord.js": "^11.5.1"
+    }
+}
